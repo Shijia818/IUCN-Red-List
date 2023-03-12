@@ -1,2 +1,2 @@
 # IUCN-Red-List
-The data and code used for IUCN Red List project
+The data and codes used for IUCN Red List project
